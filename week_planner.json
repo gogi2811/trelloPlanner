@@ -1,0 +1,458 @@
+{
+  "LISTS": [
+    {
+      "MONDAY": {
+        "CARDS": [
+          {
+            "name": "4:45 AM Wake UP",
+            "desc": "To wake up everyday to exercise at 5 AM",
+            "pos": "top",
+            "due": "",
+            "idList": ""
+          },
+		  {
+            "name": "Exercise from 5 - 6 AM",
+            "desc": "To exercise at least 45 min everyday",
+            "due": "",
+            "idList": ""
+          },
+		  {
+            "name": "7 AM - 8 AM household chores",
+            "desc": "To do some household chores",
+            "due": "",
+            "idList": ""
+          },
+		  {
+            "name": "8 - 9 AM Study CodeAcademy",
+            "desc": "To study code academy everyday",
+            "due": "",
+            "idList": ""
+          },
+		  {
+            "name": "9AM  - 6 PM Office Login 100% effort",
+            "desc": "To login into office and work dedicatedly till 6 PM with Pomodoro breaks",
+            "due": "",
+            "idList": ""
+          },
+		  {
+            "name": "6 PM  - 7 leisure PM walk + talk to friends",
+            "desc": "To log off everyday talk to friends + walk on terrace and talk to home + friends",
+            "due": "",
+            "idList": ""
+          },
+		  {
+            "name": "7 PM  - 8:30 Improve Data Engg + distributes System + skills",
+            "desc": "To put in effort everyday for skill improvement on Data engg + Distributed Systems",
+            "due": "",
+            "idList": ""
+          },
+		  {
+            "name": "8 -30 PM  - 9:30 Scrum + Food + leisure + Stock market",
+            "desc": "To finish up food + putting in effort in learning stock market",
+            "due": "",
+            "idList": ""
+          },
+		  {
+            "name": "8 -30 PM  - 9:30 Scrum + Food + leisure + Stock market",
+            "desc": "To finish up food + putting in effort in learning stock market",
+            "due": "",
+            "idList": ""
+          },
+		  {
+            "name": "9:30 PM  - 10:00 DAY's RETROSPECTIVE",
+            "desc": "To retrospect entire day , what went wrong, what could have been better",
+            "due": "",
+            "idList": ""
+          },
+		  {
+            "name": "10:30 PM  SLEEP",
+            "desc": "Wind off the day and sleep",
+            "due": "",
+            "idList": ""
+          }
+        ]
+      }},{"TUESDAY": {
+        "CARDS": [
+          {
+            "name": "4:45 AM Wake UP",
+            "desc": "To wake up everyday to exercise at 5 AM",
+            "pos": "top",
+            "due": "",
+            "idList": ""
+          },
+		  {
+            "name": "Exercise from 5 - 6 AM",
+            "desc": "To exercise at least 45 min everyday",
+            "due": "",
+            "idList": ""
+          },
+		  {
+            "name": "7 AM - 8 AM household chores",
+            "desc": "To do some household chores",
+            "due": "",
+            "idList": ""
+          },
+		  {
+            "name": "8 - 9 AM Study CodeAcademy",
+            "desc": "To study code academy everyday",
+            "due": "",
+            "idList": ""
+          },
+		  {
+            "name": "9AM  - 6 PM Office Login 100% effort",
+            "desc": "To login into office and work dedicatedly till 6 PM with Pomodoro breaks",
+            "due": "",
+            "idList": ""
+          },
+		  {
+            "name": "6 PM  - 7 leisure PM walk + talk to friends",
+            "desc": "To log off everyday talk to friends + walk on terrace and talk to home + friends",
+            "due": "",
+            "idList": ""
+          },
+		  {
+            "name": "7 PM  - 8:30 Improve Data Engg + distributes System + skills",
+            "desc": "To put in effort everyday for skill improvement on Data engg + Distributed Systems",
+            "due": "",
+            "idList": ""
+          },
+		  {
+            "name": "8 -30 PM  - 9:30 Scrum + Food + leisure + Stock market",
+            "desc": "To finish up food + putting in effort in learning stock market",
+            "due": "",
+            "idList": ""
+          },
+		  {
+            "name": "8 -30 PM  - 9:30 Scrum + Food + leisure + Stock market",
+            "desc": "To finish up food + putting in effort in learning stock market",
+            "due": "",
+            "idList": ""
+          },
+		  {
+            "name": "9:30 PM  - 10:00 DAY's RETROSPECTIVE",
+            "desc": "To retrospect entire day , what went wrong, what could have been better",
+            "due": "",
+            "idList": ""
+          },
+		  {
+            "name": "10:30 PM  SLEEP",
+            "desc": "Wind off the day and sleep",
+            "due": "",
+            "idList": ""
+          }
+        ]
+      }},{"WEDNESDAY": {
+        "CARDS": [
+          {
+            "name": "4:45 AM Wake UP",
+            "desc": "To wake up everyday to exercise at 5 AM",
+            "pos": "top",
+            "due": "",
+            "idList": ""
+          },
+		  {
+            "name": "Exercise from 5 - 6 AM",
+            "desc": "To exercise at least 45 min everyday",
+            "due": "",
+            "idList": ""
+          },
+		  {
+            "name": "7 AM - 8 AM household chores",
+            "desc": "To do some household chores",
+            "due": "",
+            "idList": ""
+          },
+		  {
+            "name": "8 - 9 AM Study CodeAcademy",
+            "desc": "To study code academy everyday",
+            "due": "",
+            "idList": ""
+          },
+		  {
+            "name": "9AM  - 6 PM Office Login 100% effort",
+            "desc": "To login into office and work delicately till 6 PM with Pomodoro breaks",
+            "due": "",
+            "idList": ""
+          },
+		  {
+            "name": "6 PM  - 7 leisure PM walk + talk to friends",
+            "desc": "To log off everyday, talk to friends + walk on terrace and talk home",
+            "due": "",
+            "idList": ""
+          },
+		  {
+            "name": "7 PM  - 8:30 Improve Data Engg + distributes System + skills",
+            "desc": "To put in effort everyday for skill improvement on Data engg + Distributed Systems",
+            "due": "",
+            "idList": ""
+          },
+		  {
+            "name": "8 -30 PM  - 9:30 Scrum + Food + leisure + Stock market",
+            "desc": "To finish up food + putting in effort in learning stock market",
+            "due": "",
+            "idList": ""
+          },
+		  {
+            "name": "8 -30 PM  - 9:30 Scrum + Food + leisure + Stock market",
+            "desc": "To finish up food + putting in effort in learning stock market",
+            "due": "",
+            "idList": ""
+          },
+		  {
+            "name": "9:30 PM  - 10:00 DAY's RETROSPECTIVE",
+            "desc": "To retrospect entire day , what went wrong, what could have been better",
+            "due": "",
+            "idList": ""
+          },
+		  {
+            "name": "10:30 PM  SLEEP",
+            "desc": "Wind off the day and sleep",
+            "due": "",
+            "idList": ""
+          }
+        ]
+      }},{"THURSDAY": {
+        "CARDS": [
+          {
+            "name": "4:45 AM Wake UP",
+            "desc": "To wake up everyday to exercise at 5 AM",
+            "pos": "top",
+            "due": "",
+            "idList": ""
+          },
+		  {
+            "name": "Exercise from 5 - 6 AM",
+            "desc": "To exercise at least 45 min everyday",
+            "due": "",
+            "idList": ""
+          },
+		  {
+            "name": "7 AM - 8 AM household chores",
+            "desc": "To do some household chores",
+            "due": "",
+            "idList": ""
+          },
+		  {
+            "name": "8 - 9 AM Study CodeAcademy",
+            "desc": "To study code academy everyday",
+            "due": "",
+            "idList": ""
+          },
+		  {
+            "name": "9AM  - 6 PM Office Login 100% effort",
+            "desc": "To login into office and work dedicately till 6 PM with Pomodoro breaks",
+            "due": "",
+            "idList": ""
+          },
+		  {
+            "name": "6 PM  - 7 leisure PM walk + talk to friends",
+            "desc": "To log off everyday talk to friends + walk on terrace and talk to home + friends",
+            "due": "",
+            "idList": ""
+          },
+		  {
+            "name": "7 PM  - 8:30 Improve Data Engg + distributes System + skills",
+            "desc": "To put in effort everyday for skill improvement on Data engg + Distributed Systems",
+            "due": "",
+            "idList": ""
+          },
+		  {
+            "name": "8 -30 PM  - 9:30 Scrum + Food + leisure + Stock market",
+            "desc": "To finish up food + putting in effort in learning stock market",
+            "due": "",
+            "idList": ""
+          },
+		  {
+            "name": "8 -30 PM  - 9:30 Scrum + Food + leisure + Stock market",
+            "desc": "To finish up food + putting in effort in learning stock market",
+            "due": "",
+            "idList": ""
+          },
+		  {
+            "name": "9:30 PM  - 10:00 DAY's RETROSPECTIVE",
+            "desc": "To retrospect entire day , what went wrong, what could have been better",
+            "due": "",
+            "idList": ""
+          },
+		  {
+            "name": "10:30 PM  SLEEP",
+            "desc": "Wind off the day and sleep",
+            "due": "",
+            "idList": ""
+          }
+        ]
+      }},{"FRIDAY": {
+        "CARDS": [
+          {
+            "name": "4:45 AM Wake UP",
+            "desc": "To wake up everyday to exercise at 5 AM",
+            "pos": "top",
+            "due": "",
+            "idList": ""
+          },
+		  {
+            "name": "Exercise from 5 - 6 AM",
+            "desc": "To exercise at least 45 min everyday",
+            "due": "",
+            "idList": ""
+          },
+		  {
+            "name": "7 AM - 8 AM household chores",
+            "desc": "To do some household chores",
+            "due": "",
+            "idList": ""
+          },
+		  {
+            "name": "8 - 9 AM Study CodeAcademy",
+            "desc": "To study code academy everyday",
+            "due": "",
+            "idList": ""
+          },
+		  {
+            "name": "9AM  - 6 PM Office Login 100% effort",
+            "desc": "To login into office and work dedicatedly till 6 PM with Pomodoro breaks",
+            "due": "",
+            "idList": ""
+          },
+		  {
+            "name": "6 PM  - 7 leisure PM walk + talk to friends",
+            "desc": "To log off everyday talk to friends + walk on terrace and talk to home + friends",
+            "due": "",
+            "idList": ""
+          },
+		  {
+            "name": "7 PM  - 8:30 Improve Data Engg + distributes System + skills",
+            "desc": "To put in effort everyday for skill improvement on Data engg + Distributed Systems",
+            "due": "",
+            "idList": ""
+          },
+		  {
+            "name": "8 -30 PM  - 9:30 Scrum + Food + leisure + Stock market",
+            "desc": "To finish up food + putting in effort in learning stock market",
+            "due": "",
+            "idList": ""
+          },
+		  {
+            "name": "8 -30 PM  - 9:30 Scrum + Food + leisure + Stock market",
+            "desc": "To finish up food + putting in effort in learning stock market",
+            "due": "",
+            "idList": ""
+          },
+		  {
+            "name": "9:30 PM  - 10:00 DAY's RETROSPECTIVE",
+            "desc": "To retrospect entire day , what went wrong, what could have been better",
+            "due": "",
+            "idList": ""
+          },
+		  {
+            "name": "10:30 PM  SLEEP",
+            "desc": "Wind off the day and sleep",
+            "due": "",
+            "idList": ""
+          }
+        ]
+      }},{"SATURDAY": {"CARDS": [
+          {
+            "name": "4:45 AM Wake UP",
+            "desc": "To wake up everyday to exercise at 5 AM",
+            "pos": "top",
+            "due": "",
+            "idList": ""
+          },
+		  {
+            "name": "Exercise from 5 - 6 AM",
+            "desc": "To exercise at least 45 min everyday",
+            "due": "",
+            "idList": ""
+          },
+		  {
+            "name": "7 AM - 10 AM household chores",
+            "desc": "To do some household chores",
+            "due": "",
+            "idList": ""
+          },
+		  {
+            "name": "10AM  - 1 PM WEEKS RETROSPECTIVE",
+            "desc": "To RETROSPECTIVE entire week and see what went wrong and what could be better",
+            "due": "",
+            "idList": ""
+          },
+		  {
+            "name": "3 PM  - 5  PM  CodeAcademy Study",
+            "desc": "To Study on Codecademy everyday SATURDAY",
+            "due": "",
+            "idList": ""
+          },
+		  {
+            "name": "5 PM  - 7:00 PM Household chores",
+            "desc": "To put in effort in house hold chores",
+            "due": "",
+            "idList": ""
+          },
+		  {
+            "name": "7 - 9 Food + Study blogs + articles",
+            "desc": "To spend time going through interesting blogs and articles",
+            "due": "",
+            "idList": ""
+          },
+		  {
+            "name": "10 PM Wind up and SLEEP",
+            "desc": "To SLEEP EARLY",
+            "due": "",
+            "idList": ""
+          }
+        ]
+	  } } , {"SUNDAY": {"CARDS" : [{
+            "name": "4:45 AM Wake UP",
+            "desc": "To wake up everyday to exercise at 5 AM",
+            "pos": "top",
+            "due": "",
+            "idList": ""
+          },
+		  {
+            "name": "Exercise from 5 - 6 AM",
+            "desc": "To exercise at least 45 min everyday",
+            "due": "",
+            "idList": ""
+          },
+		  {
+            "name": "7 AM - 10 AM household chores",
+            "desc": "To do some household chores",
+            "due": "",
+            "idList": ""
+          },
+		  {
+            "name": "10AM  - 11 AM PLAN NEXT WEEK ",
+            "desc": "To plan for next week in advance",
+            "due": "",
+            "idList": ""
+          },
+		  {
+            "name": "11 AM  - 2 PM  spend time to write some blog + article on your website",
+            "desc": "To spend some time to write blogs and articles on your own website",
+            "due": "",
+            "idList": ""
+          },
+		  {
+            "name": "2 PM  - 5:00 LEISURE",
+            "desc": "RELAX",
+            "due": "",
+            "idList": ""
+          },
+		  {
+            "name": "5 - 7 WALK + Talk go out ",
+            "desc": "RELAX",
+            "due": "",
+            "idList": ""
+          },
+		  {
+            "name": "7PM - 9 PM WIND DOWN",
+            "desc": "To get ready for next week and SLEEP EARLY",
+            "due": "",
+            "idList": ""
+          }
+
+	  ]}
+    },{"WEEK" : {}}
+  ]
+}

@@ -1,0 +1,8 @@
+planner:
+  trello:
+    token: xyz123
+    key: abz123
+    board_id: 123#abc
+  dates:
+    start_date: 2021-08-09
+    end_date: 2021-09-30
